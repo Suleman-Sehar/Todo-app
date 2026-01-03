@@ -1,0 +1,4 @@
+# Requirements for Todo Application
+# Note: This project uses only standard Python libraries for the core functionality
+# Testing dependencies
+pytest>=7.0.0
